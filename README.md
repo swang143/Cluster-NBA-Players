@@ -1,5 +1,5 @@
 # Cluster-NBA-Players
-We have data about performances of NBA players in 2013-2014 season.
+We have data about performances of NBA players in 2013-2014 season. Data are obtained from basketball reference website. http://www.basketball-reference.com/leagues/NBA_2014_per_game.html
 
 We are going to implement the machine learning technique called clustering to visualize the types of point guards as well as group similar point guards together. We will use 2 features to accomplish this task because it allows us to easily visualize the players and will also make it easier to grasp how clustering works. 
 
