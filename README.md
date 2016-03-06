@@ -17,8 +17,10 @@ TOV:	turnovers per game
 PTS: points per game
 
 Cleaning and Visualization
+
 We already have point per game data, therefore after we obtain assist turnover ratio data, we have all our data ready. And the assist turnover ratio data can be calculated by dividing the assists per game by turnovers per game. We can visualize our data set by plotting points per game versus assist turnover ratio using matplotlib, a plotting library powered by Python. 
 
 Clustering
+
 Checking by eyes cannot give us a precise division of groups of point guards. Here we are going to use a unsupervised machine learning techniques, called clustering, to segment all of the point guards into groups of alike players.
 
